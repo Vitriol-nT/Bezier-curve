@@ -161,5 +161,3 @@ label1 = tk.Label(root, font=("Courier", 10), text="(0,0)-start point at first \
 label1.place(x=15, y=55)
 
 root.mainloop()
-
-#I FEEL POWER

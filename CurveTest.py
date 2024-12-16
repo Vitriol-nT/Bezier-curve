@@ -10,6 +10,8 @@ root = tk.Tk()
 root.geometry("300x100")
 root.title("Curve SetUp")
 
+#Sorry I didn't melted Bernoulli Number inside of this thing. Therefore, only 4 points are available
+
 def run():
     global points
     global Editbox1
